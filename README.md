@@ -8,4 +8,4 @@ Tecnologias Ultilizadas:
 ## Demonstração
 https://appmydelivery.herokuapp.com/
 
-<img src="/App.png" style="width:80%">
+<img src="/App.png" style="width:80%;margin:auto;">
